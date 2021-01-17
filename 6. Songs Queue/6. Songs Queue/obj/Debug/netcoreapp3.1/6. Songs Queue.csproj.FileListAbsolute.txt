@@ -1,0 +1,13 @@
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.exe
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.deps.json
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.json
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.runtimeconfig.dev.json
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.dll
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\bin\Debug\netcoreapp3.1\6. Songs Queue.pdb
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.csprojAssemblyReference.cache
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.AssemblyInfo.cs
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.dll
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.pdb
+C:\Users\prism\iCloudDrive\SoftUni\6. Songs Queue\6. Songs Queue\obj\Debug\netcoreapp3.1\6. Songs Queue.genruntimeconfig.cache
