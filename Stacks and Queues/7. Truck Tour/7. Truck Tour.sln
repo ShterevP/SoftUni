@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Truck Tour", "7. Truck Tour\7. Truck Tour.csproj", "{86FE4416-F1C8-45C4-8434-6D01007433FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FE4416-F1C8-45C4-8434-6D01007433FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FE4416-F1C8-45C4-8434-6D01007433FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FE4416-F1C8-45C4-8434-6D01007433FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FE4416-F1C8-45C4-8434-6D01007433FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E87A570-3D4F-4969-98FE-9BA28EF8064F}
+	EndGlobalSection
+EndGlobal
