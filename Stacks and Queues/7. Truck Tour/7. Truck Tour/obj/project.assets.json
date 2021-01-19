@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prism\\iCloudDrive\\SoftUni\\7. Truck Tour\\7. Truck Tour\\7. Truck Tour.csproj",
+      "projectUniqueName": "C:\\Users\\prism\\iCloudDrive\\SoftUni\\Stacks and Queues\\7. Truck Tour\\7. Truck Tour\\7. Truck Tour.csproj",
       "projectName": "7. Truck Tour",
-      "projectPath": "C:\\Users\\prism\\iCloudDrive\\SoftUni\\7. Truck Tour\\7. Truck Tour\\7. Truck Tour.csproj",
+      "projectPath": "C:\\Users\\prism\\iCloudDrive\\SoftUni\\Stacks and Queues\\7. Truck Tour\\7. Truck Tour\\7. Truck Tour.csproj",
       "packagesPath": "C:\\Users\\prism\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prism\\iCloudDrive\\SoftUni\\7. Truck Tour\\7. Truck Tour\\obj\\",
+      "outputPath": "C:\\Users\\prism\\iCloudDrive\\SoftUni\\Stacks and Queues\\7. Truck Tour\\7. Truck Tour\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\prism\\AppData\\Roaming\\NuGet\\NuGet.Config",
