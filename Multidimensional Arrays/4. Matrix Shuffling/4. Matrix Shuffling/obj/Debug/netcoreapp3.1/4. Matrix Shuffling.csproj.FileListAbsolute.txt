@@ -1,0 +1,13 @@
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.exe
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.deps.json
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.json
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\bin\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.dll
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.pdb
+C:\Users\prism\iCloudDrive\SoftUni\Multidimensional Arrays\4. Matrix Shuffling\4. Matrix Shuffling\obj\Debug\netcoreapp3.1\4. Matrix Shuffling.genruntimeconfig.cache
