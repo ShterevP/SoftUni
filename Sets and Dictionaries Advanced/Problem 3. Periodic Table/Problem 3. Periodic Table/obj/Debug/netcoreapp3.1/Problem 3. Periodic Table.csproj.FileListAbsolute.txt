@@ -1,0 +1,13 @@
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table.exe
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table.deps.json
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table.runtimeconfig.json
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table.runtimeconfig.dev.json
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table.dll
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\bin\Debug\netcoreapp3.1\Problem 3. Periodic Table.pdb
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table.csprojAssemblyReference.cache
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table.AssemblyInfoInputs.cache
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table.AssemblyInfo.cs
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table.dll
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table.pdb
+C:\Users\prism\iCloudDrive\SoftUni\Sets and Dictionaries Advanced\Problem 3. Periodic Table\Problem 3. Periodic Table\obj\Debug\netcoreapp3.1\Problem 3. Periodic Table.genruntimeconfig.cache
